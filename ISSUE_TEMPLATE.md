@@ -1,6 +1,6 @@
 IMPORTANT : consigne pour que votre soumission ne soit pas refusé. Si vous ne respecter pas tous les points votre demande sera fermée immédiatement.
 
-TITRE : merci de le nommer comme cela [COMPOSANT] Titre. Exemple [RFXCOM] Mon titre, ou pour jeedom lui meme [CORE] Mon titre
+TITRE : merci de le nommer comme cela [COMPOSANT] Titre. Exemple [RFXCOM] Mon titre, ou pour jeedom lui meme [CORE] Mon titre. ATTENTION si vous etes beta testeur merci de rajouter [BETA] dans le titre : [RFXCOM][BETA] Mon titre
 
 MESSAGE : merci de bien mettre toutes les informaitons suivantes :
 - la version de jeedom (si c'est une beta la date de dernière mise à jour)
